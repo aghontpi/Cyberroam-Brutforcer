@@ -1,0 +1,17 @@
+NOTE:
+WAS WRITTEN IN PYTHON 3.5
+Stared the commit only after some itterations, so old versions are available.
+
+#######################################################################
+
+
+Currently supports ts,nts,rollnumbers,..(which have the default password)
+Doesn't support Dictionary file..(might be added in the future)
+[huge number of accounts work with default password,so no dict option?]
+
+
+
+#######################################################################
+USAGE:
+
+Run Serial_sequence.py directly, and do as instructed.
