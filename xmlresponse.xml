@@ -1,0 +1,14 @@
+<?xml version='1.0' ?>
+<requestresponse>
+ <status>
+  LOGIN
+ </status>
+ <message>
+  <![CDATA[The system could not log you on. Make sure your password is correct]]>
+ </message>
+ <logoutmessage>
+  You have successfully logged off
+ </logoutmessage>
+ <state>
+ </state>
+</requestresponse>
