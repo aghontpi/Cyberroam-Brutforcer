@@ -30,7 +30,7 @@ Use your won dictionary file.
 
 ## Usage example
 
-Run Serial_sequence.py directly, and do as instructed.
+Run Serial_sequence.py directly, and do as instructed (follow instructions).
 
 ## Built With
 
