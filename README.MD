@@ -8,7 +8,9 @@ CyberRoam was used as a firewall for wifi security and managing accounts, settin
 etc...
 
 ###############################################################
+
 NOTE:
+
 WAS WRITTEN IN PYTHON 3.5
 Stared the commit only after some itterations, so old versions are not available.
 For Dictionary attack use your own FileDEST.
