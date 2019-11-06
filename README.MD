@@ -7,7 +7,7 @@
 CyberRoam was used as a firewall for wifi security and managing accounts, setting limits, allowed protocols,
 etc...
 
-###############################################################
+* * *
 
 NOTE:
 
@@ -21,7 +21,7 @@ NOTE: ts nts... are used in our institution. You can use your own if you want.
 
 support Dictionary file.. Use your own dictionary file.
 
-################################################################
+* * *
 
 ## Installation
 
